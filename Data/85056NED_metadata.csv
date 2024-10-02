@@ -1,0 +1,326 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Mobiliteit; per verplaatsing, verplaatsingskenmerken, vervoerwijzen, regio";"Per verplaatsing, vervoerwijzen";"85056NED";"Afstand per verplaatsing, reisduur per verplaatsing
+Verplaatsingskenmerken, vervoerwijzen, regiokenmerken";"2024-07-04T02:00:00";"Actualisering";"";"nl";"CBS";"Perjaar";"2023";"
+Deze tabel bevat informatie over het verplaatsingsgedrag van de Nederlandse bevolking van 6 jaar of ouder in particuliere huishoudens, dus exclusief bewoners van instellingen, inrichtingen en tehuizen. De tabel bevat, afgelegde afstand en reisduur gemiddeld per verplaatsing. Het gaat om reguliere verplaatsingen op Nederlands grondgebied inclusief binnenlandse vakantiemobiliteit. De afgelegde afstand is vastgesteld op basis van ritinformatie volgens de werkwijze voor reguliere reizigerskilometers. Serieverplaatsingen behoren niet tot de reguliere verplaatsingen. 
+
+Het verplaatsingsgedrag is uitgesplitst naar verplaatsingskenmerken, vervoerwijzen, regiokenmerken en populatie.
+
+De cijfers zijn berekend met het onderzoek Onderweg in Nederland (ODiN). Dat is de opvolger van het onderzoek Verplaatsingen in Nederland (OViN; 2010-2017). Het ODiN is ten opzichte van het voorafgaande OViN op diverse punten in belangrijke mate gewijzigd en de onderzoeken zijn daarom onderling niet volgtijdelijk vergelijkbaar.
+
+Gegevens beschikbaar vanaf 2018.
+
+Status van de cijfers:
+De cijfers in deze tabel zijn definitief.
+
+Wijziging per 4 juli 2024: 
+De jaarcijfers 2023 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+Medio 2025 verschijnen de cijfers over het onderzoeksjaar 2024.
+
+";"INHOUDSOPGAVE 
+
+1. Toelichting 
+2. Definities en verklaring van symbolen 
+3. Koppelingen naar relevante tabellen en artikelen 
+4. Bronnen en methoden 
+5. Meer informatie 
+
+
+1. TOELICHTING 
+
+Deze tabel bevat informatie over het verplaatsingsgedrag van de Nederlandse bevolking van 6 jaar of ouder in particuliere huishoudens, dus exclusief bewoners van instellingen, inrichtingen en tehuizen. De tabel bevat, afgelegde afstand en reisduur gemiddeld per verplaatsing. Het gaat om reguliere verplaatsingen op Nederlands grondgebied inclusief binnenlandse vakantiemobiliteit. De afgelegde afstand is vastgesteld op basis van ritinformatie volgens de werkwijze voor reguliere reizigerskilometers. Serieverplaatsingen behoren niet tot de reguliere verplaatsingen. 
+
+Het verplaatsingsgedrag is uitgesplitst naar verplaatsingskenmerken, vervoerwijzen, regiokenmerken en populatie.
+
+De cijfers zijn berekend met het onderzoek Onderweg in Nederland (ODiN). Dat is de opvolger van het onderzoek Verplaatsingen in Nederland (OViN; 2010-2017). Het ODiN is ten opzichte van het voorafgaande OViN op diverse punten in belangrijke mate gewijzigd en de onderzoeken zijn daarom onderling niet volgtijdelijk vergelijkbaar.
+
+Gegevens beschikbaar vanaf 2018.
+
+Status van de cijfers:
+De cijfers in deze tabel zijn definitief.
+
+Wijziging per 4 juli 2024: 
+De jaarcijfers 2023 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+Medio 2025 verschijnen de cijfers over het onderzoeksjaar 2024.
+
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN 
+
+Definities:
+
+Verplaatsing
+Een verplaatsing is een reis of een gedeelte van een reis die is afgelegd met één motief. Bijvoorbeeld de afgelegde afstand van huis naar werk is één verplaatsing, ongeacht of hierbij één of meerdere vervoermiddelen worden gebruikt. 
+
+Rit
+Een rit is een verplaatsing of een onderdeel van een verplaatsing die met één vervoerwijze plaatsvindt. Bijvoorbeeld een verplaatsing van huis naar het werk met achtereenvolgens de fiets naar het station, de trein en te voet naar kantoor bestaat uit drie ritten. Ritten met een vliegtuig of ander luchtvaartuig worden in het onderzoek niet meegenomen.
+
+Reguliere verplaatsingen
+Reguliere verplaatsingen betreffen de dagelijkse mobiliteit in Nederland van de Nederlandse bevolking van 6 jaar of ouder in particuliere huishoudens. Daaronder valt ook binnenlandse vakantiemobiliteit. Tevens worden opeenvolgende werkgerelateerde verplaatsingen met maximaal 3 achtereenvolgende werklocaties tot de reguliere verplaatsingen gerekend. Serieverplaatsingen en (beroepsmatig) wegvervoer met een zwaar vrachtvoertuig behoren niet tot de reguliere verplaatsingen.
+
+Reguliere reizigerskilometers
+Reguliere reizigerskilometers zijn de kilometers afgelegd tijdens reguliere verplaatsingen. Het betreft alleen kilometers afgelegd op Nederlands grondgebied. Reguliere reizigerskilometers naar vervoerwijze zijn op basis van de ritvervoerwijze berekend zodat ook de afstanden van vervoermiddelen gebruikt ten behoeve van voor- en natransport apart gemeten zijn. Bijvoorbeeld bij een verplaatsing van huis naar het werk met achtereenvolgens de fiets naar het station, de trein en te voet naar kantoor worden de met een bepaalde ritvervoerwijze afgelegde kilometers aan de betreffende vervoerwijze toegekend. Kilometers met het vliegtuig worden niet meegenomen.
+
+Serieverplaatsingen
+Serieverplaatsingen in ODiN betreffen de verplaatsingen tussen 4 of meer achtereenvolgende werklocaties. Deze worden in de vragenlijst als één geheel uitgevraagd. Serieverplaatsingen worden bijvoorbeeld gemaakt door taxichauffeurs en pakketbezorgers. Serieverplaatsingen zijn per definitie werkgerelateerd en worden alleen meegenomen bij de bepaling van de totale vervoersprestatie. Beroepsmatige (serie)verplaatsingen met een zwaar vrachtvoertuig zijn niet meegenomen bij de berekening.
+
+Binnenlandse vakantiemobiliteit
+Binnenlandse vakantiemobiliteit betreft mobiliteit in Nederland van de Nederlandse bevolking vanwege vakantie. Het gaat zowel om verplaatsingen vanwege vakantie in Nederland als de afgelegde kilometers op de heen- of terugweg op Nederlands grondgebied bij een vakantie in het buitenland. Vakantie wordt daarbij gedefinieerd als een verblijf buiten de eigen woning voor ontspanning of plezier anders dan bij familie of kennissen thuis doorgebracht. Binnenlandse vakantiemobiliteit is een onderdeel van de reguliere reizigerskilometers en van de reguliere verplaatsingen. 
+
+Verklaring van symbolen: 
+
+niets (blanco) : het cijfer kan op logische gronden niet voorkomen 
+. : het cijfer is onbekend, onvoldoende betrouwbaar of geheim 
+* : voorlopige cijfers 
+** : nader voorlopige cijfers Indien van toepassing: 
+
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN 
+
+Andere ODiN tabellen:
+
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84713NED'>Mobiliteit; per persoon, persoonskenmerken, motieven en regio’s</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84709NED'>Mobiliteit; per persoon, persoonskenmerken, vervoerwijzen en regio’s</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84702NED'>Mobiliteit; per persoon, verplaatsingskenmerken, reismotieven, regio's</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84708NED'>Mobiliteit; per persoon, verplaatsingskenmerken, vervoerwijzen en regio’s</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84710NED'>Mobiliteit; per persoon, vervoerwijzen, motieven, regio’s</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84687NED'>Totale vervoersprestatie; vervoerwijzen en regio's</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84755NED'>Mobiliteitstrend; per rit, vervoerwijzen, reismotief, leeftijd en geslacht</a>
+<a href='Verkeersdeelname en deelname openbaar vervoer; persoonskenmerken'>Verkeersdeelname en deelname openbaar vervoer; persoonskenmerken</a>
+
+
+4. BRONNEN EN METHODEN
+
+Een rapportage over het onderzoek is te vinden in: 
+<a href='https://www.cbs.nl/nl-nl/longread/rapportages/2022/onderweg-in-nederland--odin---2018-2020'>Eindrapportage heropleveringen ODiN 2018-2020</a>
+
+De cijfers in deze tabel zijn gebaseerd op de onderzoeksbeschrijving:
+<a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/aanvullende onderzoeksbeschrijvingen/onderweg-in-nederland--odin---onderzoeksbeschrijving-2018'>Onderweg in Nederland (ODiN) 2018</a>.
+<a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/aanvullende-onderzoeksbeschrijvingen/onderweg-in-nederland--odin---onderzoeksbeschrijving-2019'>Onderweg in Nederland (ODiN) 2019</a>.
+<a href='https://www.cbs.nl/nl-nl/longread/rapportages/2021/onderweg-in-nederland--odin---2020-onderzoeksbeschrijving'>Onderweg in Nederland (ODiN) 2020</a>.
+<a href='https://www.cbs.nl/nl-nl/longread/rapportages/2023/onderweg-in-nederland--odin---2022'>Onderweg in Nederland (ODiN) 2022</a>.
+
+De onderzoeksmethode van deze tabel is te vinden in de korte onderzoeksbeschrijving <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/onderweg-in-nederland'>Onderweg in Nederland (ODiN)</a>.
+
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen 
+Verveelvoudiging is toegestaan, mits CBS als bron wordt vermeld.";"ts=1688390948998&graphtype=Table&r=Vervoerwijzen,Verplaatsingskenmerken&k=Topics,Regiokenmerken,Perioden&t=Populatie,Marges&_gu=NL";"$filter=((Verplaatsingskenmerken eq '2030851') or (Verplaatsingskenmerken eq '2030871') or (Verplaatsingskenmerken eq '2031100') or (Verplaatsingskenmerken eq '2031110') or (Verplaatsingskenmerken eq '2031160') or (Verplaatsingskenmerken eq '2820702') or (Verplaatsingskenmerken eq '2820705') or (Verplaatsingskenmerken eq 'T001005') or (Verplaatsingskenmerken eq 'A025263') or (Verplaatsingskenmerken eq 'A025265')) and ((Populatie eq 'A048710')) and ((Vervoerwijzen eq 'T001093') or (Vervoerwijzen eq 'A048583') or (Vervoerwijzen eq 'A018984')) and ((Marges eq 'MW00000')) and ((Regiokenmerken eq 'PV26    ') or (Regiokenmerken eq '1019005 ') or (substringof('NL',Regiokenmerken)))";"Table,Bar,Line,Map";"Regulier";"CBS.";"2024-07-04T02:00:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"Verplaatsingskenmerken";"Verplaatsingskenmerken";"";;;;;
+"1";"1";;"Dimension";"Populatie";"Populatie";"";;;;;
+"2";"2";;"Dimension";"Vervoerwijzen";"Vervoerwijzen";"";;;;;
+"3";"3";;"Dimension";"Marges";"Marges";"";;;;;
+"4";"4";;"GeoDimension";"Regiokenmerken";"Regiokenmerken";"";;;;;
+"5";"5";;"TimeDimension";"Perioden";"Perioden";"";"true";;;;
+"6";"6";;"Topic";"GemiddeldeAfstandPerVerplaatsing_1";"Gemiddelde afstand per verplaatsing";"Dit betreft het gemiddelde aantal reizigerskilometers dat per verplaatsing wordt afgelegd. De afstand naar vervoerwijze is op basis van de ritvervoerwijze zodat ook voor- en natransport apart gemeten zijn. Het aantal verplaatsingen is echter naar de hoofdvervoerwijze van een verplaatsing.";;"Double";"reizigerskilometers";"2";"Missing"
+"7";"7";;"Topic";"GemiddeldeReisduurPerVerplaatsing_2";"Gemiddelde reisduur per verplaatsing";"Dit betreft het gemiddelde aantal minuten dat een verplaatsing duurt. De reisduur naar vervoerwijze betreft de hoofdvervoerwijze van een verplaatsing. Dit betekent bijvoorbeeld dat bij een woon-werkverplaatsing met de fiets naar het station, met de trein en lopend naar kantoor de reisduur onder de hoofdvervoerwijze trein valt.";;"Double";"minuten";"2";"Missing"
+"Verplaatsingskenmerken"
+Key;Title;Description
+"2030851";"Reisduur: 0 tot 10 minuten";""
+"2030871";"Reisduur: 10 tot 20 minuten";""
+"2030891";"Reisduur: 20 tot 30 minuten";""
+"2030911";"Reisduur: 30 tot 60 minuten";""
+"2030931";"Reisduur: 60 tot 120 minuten";""
+"2030950";"Reisduur: 120 minuten of meer";""
+"2031000";"Vertrektijdstip: 09 tot 12 uur";"Het tijdvak waarin de verplaatsing is gestart."
+"2031090";"Verplaatsing op zondag";"Dag van de week waarop de verplaatsing heeft plaatsgevonden. Het betreft hier bijvoorbeeld een gemiddelde over alle zondagen. Ook personen die aangaven op die dag van de week niet hebben gereisd (nul verplaatsingen), zijn meegeteld."
+"2031100";"Verplaatsing op maandag";"Dag van de week waarop de verplaatsing heeft plaatsgevonden. Het betreft hier bijvoorbeeld een gemiddelde over alle maandagen. Ook personen die aangaven op die dag van de week niet hebben gereisd (nul verplaatsingen), zijn meegeteld."
+"2031110";"Verplaatsing op dinsdag";"Dag van de week waarop de verplaatsing heeft plaatsgevonden. Het betreft hier bijvoorbeeld een gemiddelde over alle dinsdagen. Ook personen die aangaven op die dag van de week niet hebben gereisd (nul verplaatsingen), zijn meegeteld."
+"2031120";"Verplaatsing op woensdag";"Dag van de week waarop de verplaatsing heeft plaatsgevonden. Het betreft hier bijvoorbeeld een gemiddelde over alle woensdagen. Ook personen die aangaven op die dag van de week niet hebben gereisd (nul verplaatsingen), zijn meegeteld."
+"2031130";"Verplaatsing op donderdag";"Dag van de week waarop de verplaatsing heeft plaatsgevonden. Het betreft hier bijvoorbeeld een gemiddelde over alle donderdagen. Ook personen die aangaven op die dag van de week niet hebben gereisd (nul verplaatsingen), zijn meegeteld."
+"2031140";"Verplaatsing op vrijdag";"Dag van de week waarop de verplaatsing heeft plaatsgevonden. Het betreft hier bijvoorbeeld een gemiddelde over alle vrijdagen. Ook personen die aangaven op die dag van de week niet hebben gereisd (nul verplaatsingen), zijn meegeteld."
+"2031150";"Verplaatsing op zaterdag";"Dag van de week waarop de verplaatsing heeft plaatsgevonden. Het betreft hier bijvoorbeeld een gemiddelde over alle zaterdagen. Ook personen die aangaven op die dag van de week niet hebben gereisd (nul verplaatsingen), zijn meegeteld."
+"2031160";"Verplaatsing in januari";"De maand waarin de verplaatsing plaats heeft gevonden. Het betreft hier een gemiddelde over de dagen van de maand januari, dus een gemiddelde dag naar maand. Ook personen die aangaven op de enquêtedag in januari niet te hebben gereisd, zijn meegeteld."
+"2031170";"Verplaatsing in februari";"De maand waarin de verplaatsing plaats heeft gevonden.Het betreft hier een gemiddelde over de dagen van de maand februari dus een gemiddelde dag naar maand. Ook personen die aangaven op de enquêtedag in februari niet te hebben gereisd, zijn meegeteld."
+"2031180";"Verplaatsing in maart";"De maand waarin de verplaatsing plaats heeft gevonden.Het betreft hier een gemiddelde over de dagen van de maand maart dus een gemiddelde dag naar maand. Ook personen die aangaven op de enquêtedag in maart niet te hebben gereisd, zijn meegeteld."
+"2031190";"Verplaatsing in april";"De maand waarin de verplaatsing plaats heeft gevonden.Het betreft hier een gemiddelde over de dagen van de maand april dus een gemiddelde dag naar maand. Ook personen die aangaven op de enquêtedag in april niet te hebben gereisd, zijn meegeteld."
+"2031200";"Verplaatsing in mei";"De maand waarin de verplaatsing plaats heeft gevonden.Het betreft hier een gemiddelde over de dagen van de maand mei dus een gemiddelde dag naar maand. Ook personen die aangaven op de enquêtedag in mei niet te hebben gereisd, zijn meegeteld."
+"2031210";"Verplaatsing in juni";"De maand waarin de verplaatsing plaats heeft gevonden.Het betreft hier een gemiddelde over de dagen van de maand juni dus een gemiddelde dag naar maand. Ook personen die aangaven op de enquêtedag in juni niet te hebben gereisd, zijn meegeteld."
+"2031220";"Verplaatsing in juli";"De maand waarin de verplaatsing plaats heeft gevonden.Het betreft hier een gemiddelde over de dagen van de maand juli dus een gemiddelde dag naar maand. Ook personen die aangaven op de enquêtedag in juli niet te hebben gereisd, zijn meegeteld."
+"2031230";"Verplaatsing in augustus";"De maand waarin de verplaatsing plaats heeft gevonden.Het betreft hier een gemiddelde over de dagen van de maand augustus dus een gemiddelde dag naar maand. Ook personen die aangaven op de enquêtedag in augustus niet te hebben gereisd, zijn meegeteld."
+"2031240";"Verplaatsing in september";"De maand waarin de verplaatsing plaats heeft gevonden.Het betreft hier een gemiddelde over de dagen van de maand september dus een gemiddelde dag naar maand. Ook personen die aangaven op de enquêtedag in september niet te hebben gereisd, zijn meegeteld."
+"2031250";"Verplaatsing in oktober";"De maand waarin de verplaatsing plaats heeft gevonden.Het betreft hier een gemiddelde over de dagen van de maand oktober dus een gemiddelde dag naar maand. Ook personen die aangaven op de enquêtedag in oktober niet te hebben gereisd, zijn meegeteld."
+"2031260";"Verplaatsing in november";"De maand waarin de verplaatsing plaats heeft gevonden.Het betreft hier een gemiddelde over de dagen van de maand november dus een gemiddelde dag naar maand. Ook personen die aangaven op de enquêtedag in november niet te hebben gereisd, zijn meegeteld."
+"2031270";"Verplaatsing in december";"De maand waarin de verplaatsing plaats heeft gevonden.Het betreft hier een gemiddelde over de dagen van de maand december dus een gemiddelde dag naar maand. Ook personen die aangaven op de enquêtedag in december niet te hebben gereisd, zijn meegeteld."
+"2820701";"Vertrektijdstip: 00 tot 07 uur";"Het tijdvak waarin de verplaatsing is gestart."
+"2820702";"Vertrektijdstip: 07 tot 09 uur";"Het tijdvak waarin de verplaatsing is gestart."
+"2820704";"Vertrektijdstip: 12 tot 16 uur";"Het tijdvak waarin de verplaatsing is gestart."
+"2820705";"Vertrektijdstip: 16 tot 18 uur";"Het tijdvak waarin de verplaatsing is gestart."
+"2820706";"Vertrektijdstip: 18 tot 24 uur";"Het tijdvak waarin de verplaatsing is gestart."
+"T001005";"Totaal verplaatsingskenmerken ";""
+"A025261";"Afstand: 0 tot 1 km";""
+"A025262";"Afstand: 1 tot 3,7 km";""
+"A025263";"Afstand: 3,7 tot 7,5 km";""
+"A025264";"Afstand: 7,5 tot 15 km";""
+"A025265";"Afstand: 15 tot 30 km";""
+"A025266";"Afstand: 30 tot 50 km";""
+"A025267";"Afstand: 50 km tot 75 km";""
+"A025268";"Afstand: 75 km of meer";""
+"Populatie"
+Key;Title;Description
+"A048710";"Populatie: 6 jaar of ouder";"Populatie betreft de Nederlandse bevolking van 6 jaar of ouder in particuliere huishoudens, dus exclusief bewoners van instellingen, inrichtingen en tehuizen."
+"A048709";"Populatie: 12 jaar of ouder";"Populatie betreft de Nederlandse bevolking van 12 jaar of ouder in particuliere huishoudens, dus exclusief bewoners van instellingen, inrichtingen en tehuizen."
+"Vervoerwijzen"
+Key;Title;Description
+"T001093";"Totaal";"Totaal vervoerwijzen"
+"A048583";"Personenauto (bestuurder)";"Hier onder vallen bestuurders van een personenauto (ook: personenauto van werk of de zaak, dienstauto, leaseauto (zakelijk of privé), leen- of huurauto, leenauto, personenauto hulpverleningsvoertuig), maar uitgezonderd taxichauffeurs en bestelautochauffeurs."
+"A048584";"Personenauto  (passagier)";"Iemand die meerijdt in een personenauto (met uitzondering van inzittende taxi en passagier bestelauto)."
+"A018981";"Trein";"Omvat o.a.: sneltrein, stoptrein, sprinter, hogesnelheidstrein, kanaaltunneltrein, TGV, ICE."
+"A018982";"Bus/tram/metro";"Bus: hier onder vallen alleen (lijn)bussen ten behoeve van het openbaar vervoer zoals: stadsbus, lijnbus, interliner, belbus, trolleybus, touringcar ingezet voor (vervanging) openbaar vervoer, transferiumbus. 
+Tram: omvat ook lightrail, sneltram, Randstadrail. 
+Metro: ondergrondse."
+"A018984";"Fiets";"Fiets: hier onder vallen: zowel een niet-elektrische als elektrische fiets, (ook een speedpedellec met gele kentekenplaat) maar ook een fiets passagier die achter- of voorop op een fiets plaatsneemt."
+"A018985";"Lopen";"Dit omvat: Lopen, te voet gaan eventueel met rollator, krukken, stok e.d."
+"A018986";"Overige vervoerwijze";"Overige vervoerwijzen: bestuurder of passagier van o.a. bestelauto, motor, brom- of snorfiets, brommobiel, camper, touringcar, taxi, (veer) boot, vliegtuig, paard, invalidenvoertuig, scootmobiel, skates, skeelers, landbouwvoertuig."
+"Marges"
+Key;Title;Description
+"MW00000";"Waarde";""
+"MOG0095";"Ondergrens 95%-interval";"Dit is de ondergrens van het interval waarvan met 95% zekerheid verwacht wordt dat de werkelijke waarde er binnen ligt."
+"MBG0095";"Bovengrens 95%-interval";"Dit is de bovengrens van het interval waarvan met 95% zekerheid verwacht wordt dat de werkelijke waarde er binnen ligt."
+"Regiokenmerken"
+Key;Title;Description
+"NL01    ";"Nederland";""
+"LD01    ";"Noord-Nederland (LD)";"Noord-Nederland: Groningen, Fryslân, Drenthe
+
+LD = Landsdeel
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"LD02    ";"Oost-Nederland (LD)";"Oost-Nederland: Overijssel, Flevoland, Gelderland
+
+LD = Landsdeel
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"LD03    ";"West-Nederland (LD)";"West-Nederland: Utrecht, Noord-Holland, Zuid-Holland, Zeeland
+
+LD = Landsdeel
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"LD04    ";"Zuid-Nederland (LD)";"Zuid-Nederland: Noord-Brabant, Limburg
+
+LD = Landsdeel
+
+Regionale groepering van provincies. Nederland telt 4 landsdelen.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"PV20    ";"Groningen (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"PV21    ";"Fryslân (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"PV22    ";"Drenthe (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"PV23    ";"Overijssel (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"PV24    ";"Flevoland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"PV25    ";"Gelderland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"PV26    ";"Utrecht (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"PV27    ";"Noord-Holland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"PV28    ";"Zuid-Holland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"PV29    ";"Zeeland (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"PV30    ";"Noord-Brabant (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"PV31    ";"Limburg (PV)";"PV = Provincie
+
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt."
+"1018850 ";"Zeer sterk stedelijk";"Op grond van de omgevingsadressendichtheid is aan iedere buurt, wijk of gemeente een stedelijkheidsklasse toegekend. 
+Zeer sterk stedelijk: Omgevingsadressendichtheid van 2500 of meer adressen per km2.
+
+Omgevingsadressendichtheid (van een adres):
+Het aantal adressen binnen een cirkel met een straal van één kilometer rondom een adres, gedeeld door de oppervlakte van de cirkel. De omgevingsadressendichtheid wordt uitgedrukt in adressen per km2.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt.
+"
+"1018905 ";"Sterk stedelijk";"Op grond van de omgevingsadressendichtheid is aan iedere buurt, wijk of gemeente een stedelijkheidsklasse toegekend. 
+Sterk stedelijk: Omgevingsadressendichtheid van 1500 tot 2500 adressen per km2.
+
+Omgevingsadressendichtheid (van een adres):
+Het aantal adressen binnen een cirkel met een straal van één kilometer rondom een adres, gedeeld door de oppervlakte van de cirkel. De omgevingsadressendichtheid wordt uitgedrukt in adressen per km2.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt.
+"
+"1018955 ";"Matig stedelijk";"Op grond van de omgevingsadressendichtheid is aan iedere buurt, wijk of gemeente een stedelijkheidsklasse toegekend. 
+Matig stedelijk: Omgevingsadressendichtheid van 1000 tot 1500 adressen per km2.
+
+Omgevingsadressendichtheid (van een adres):
+Het aantal adressen binnen een cirkel met een straal van één kilometer rondom een adres, gedeeld door de oppervlakte van de cirkel. De omgevingsadressendichtheid wordt uitgedrukt in adressen per km2.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt.
+"
+"1019005 ";"Weinig stedelijk";"Op grond van de omgevingsadressendichtheid is aan iedere buurt, wijk of gemeente een stedelijkheidsklasse toegekend. 
+Weinig stedelijk: Omgevingsadressendichtheid van 500 tot 1000 adressen per km2.
+
+Omgevingsadressendichtheid (van een adres):
+Het aantal adressen binnen een cirkel met een straal van één kilometer rondom een adres, gedeeld door de oppervlakte van de cirkel. De omgevingsadressendichtheid wordt uitgedrukt in adressen per km2.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt.
+"
+"1019052 ";"Niet stedelijk";"Op grond van de omgevingsadressendichtheid is aan iedere buurt, wijk of gemeente een stedelijkheidsklasse toegekend. 
+Niet stedelijk: Omgevingsadressendichtheid van minder dan 500 adressen per km2.
+
+Omgevingsadressendichtheid (van een adres):
+Het aantal adressen binnen een cirkel met een straal van één kilometer rondom een adres, gedeeld door de oppervlakte van de cirkel. De omgevingsadressendichtheid wordt uitgedrukt in adressen per km2.
+
+De toedeling naar regio is enkel gebaseerd op de regio waar de respondent woont en hoeft niet overeen te komen met de regio waar de verplaatsingen zijn gemaakt.
+"
+"Perioden"
+Key;Title;Description;Status
+"2018JJ00";"2018";;"Definitief"
+"2019JJ00";"2019";;"Definitief"
+"2020JJ00";"2020";;"Definitief"
+"2021JJ00";"2021";;"Definitief"
+"2022JJ00";"2022";;"Definitief"
+"2023JJ00";"2023";;"Definitief"
